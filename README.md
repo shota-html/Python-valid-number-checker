@@ -12,4 +12,8 @@ pkg install python
 
 pkg install git
 
-git clone 
+git clone https://github.com/shota-html/Python-valid-number-checker.git
+
+cd shota_numb_file
+
+python ValidCheck.py
